@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "dbt_sample"
+        }
+    ],
+    "settings": {
+        "dbt.queryLimit": 500
+    }
+}
